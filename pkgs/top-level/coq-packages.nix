@@ -89,6 +89,7 @@ let
       paramcoq = callPackage ../development/coq-modules/paramcoq {};
       parsec = callPackage ../development/coq-modules/parsec {};
       pocklington = callPackage ../development/coq-modules/pocklington {};
+      QuantumLib = callPackage ../development/coq-modules/QuantumLib {};
       QuickChick = callPackage ../development/coq-modules/QuickChick {};
       reglang = callPackage ../development/coq-modules/reglang {};
       relation-algebra = callPackage ../development/coq-modules/relation-algebra {};
